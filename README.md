@@ -2,7 +2,8 @@
 <h3 align="center">A nerdy guy from south of France :sunny:</h3>
 
 - Im currently looking for an Internship for 18 months ! :grin:
-- Here's my Resume ! <a href="https://github.com/Jozu0/Jozu0/blob/main/CV%20Adam%20RUSSO%20Concepteur%20Dev%203DVR.pdf">:scroll:</a>
+- Here's my Resume -> <a href="https://github.com/Jozu0/Jozu0/blob/main/CV%20Adam%20RUSSO%20Concepteur%20Dev%203DVR.pdf">:scroll:</a>
+- My itch.io projects -> <a href="https://jozun0.itch.io/">:game_die:</a> !
 
   ---
 ## My skills :
@@ -22,8 +23,8 @@
 ## Project list :
 
 - <a href="https://github.com/Jozu0/TechHarvestGit">**TechHarvest :house_with_garden:** </a>
-- <a href="https://github.com/Jozu0/LightHeart">**LightHeart, last GameJam project :bulb:** </a>
-- <a href="https://github.com/Theovgt06/Wifi-waffle">**EscapeEarth, a GameJam project :rocket:** </a>
+- <a href="https://github.com/Jozu0/LightHeart">**LightHeart, last GameJam project :bulb:** </a> Check the playable version  <a href="https://jozun0.itch.io/lightcube">**here !** </a>
+- <a href="https://github.com/Theovgt06/Wifi-waffle">**EscapeEarth, a GameJam project :rocket:** </a> Check the playable version  <a href="https://jozun0.itch.io/earth-escape">**here !** </a>
 - <a href="https://github.com/Jozu0/OpenGLLearnJozu">**OpenGL Learning project :eyeglasses:** </a>
 - <a href="https://github.com/Jozu0/PortfolioWebsiteJozu">**Portfolio website :paperclip:** </a>
  ---
@@ -54,7 +55,7 @@
 
   ---
 
-## Contact Me
+## Contact Me :mailbox_with_no_mail:
 [![Mail](https://img.shields.io/badge/Email-145da0?style=flat&logo=gmail&logoColor=white)](mailto:russo.adam06@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/Linkedin-145da0?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-russo-9979532aa/) 
 ![Discord](https://img.shields.io/badge/@jozun-145da0?style=flat&logo=discord&logoColor=white)
